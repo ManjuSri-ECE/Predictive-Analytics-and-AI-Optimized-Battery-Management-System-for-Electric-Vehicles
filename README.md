@@ -39,6 +39,15 @@ ESP8266 | Sensors | Python | Machine Learning | IoT
 * Battery Health Assessment
 * Predictive Maintenance
 
+## Results
+
+- Successfully implemented real-time battery monitoring and data visualization.
+- Enabled remote access to battery parameters through an IoT platform.
+- Applied machine learning techniques for battery performance analysis and prediction.
+- Demonstrated an integrated hardware-software framework for intelligent battery management.
+
 ## Future Scope
 
 Integration of advanced battery health estimation, AI-driven charging optimization, and cloud analytics for next-generation intelligent battery management systems.
+
+
