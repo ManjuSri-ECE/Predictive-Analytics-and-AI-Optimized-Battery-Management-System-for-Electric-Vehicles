@@ -1,8 +1,6 @@
 # E-Vehicle Battery Management System
 IoT-enabled Battery Management System with real-time monitoring and machine learning-based battery performance analysis.
 
-# Predictive Analytics and AI-Optimized Battery Management System for Electric Vehicles
-
 ## Overview
 
 An IoT-enabled Battery Management System (BMS) designed for real-time monitoring and predictive analysis of electric vehicle battery performance. The system integrates embedded sensing, cloud-based monitoring, and machine learning techniques to improve battery efficiency, reliability, and operational lifespan.
