@@ -1,4 +1,4 @@
-<img width="1882" height="625" alt="image" src="https://github.com/user-attachments/assets/d24eca9b-b11b-4398-9db6-f61d8e94dd60" /># E-Vehicle Battery Management System
+E-Vehicle Battery Management System
 IoT-enabled Battery Management System with real-time monitoring and machine learning-based battery performance analysis.
 
 # Predictive Analytics and AI-Optimized Battery Management System for Electric Vehicles
